@@ -2,4 +2,4 @@
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::site-settings.site-settings');
+module.exports = createCoreService('api::site-setting.site-setting');
