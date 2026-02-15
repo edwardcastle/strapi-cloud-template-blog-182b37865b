@@ -1,0 +1,47 @@
+{
+  "collectionName": "components_shared_seos",
+  "info": {
+    "displayName": "SEO",
+    "description": "SEO metadata for pages",
+    "icon": "search"
+  },
+  "options": {},
+  "attributes": {
+    "metaTitleEs": {
+      "type": "string",
+      "required": true
+    },
+    "metaTitleEn": {
+      "type": "string"
+    },
+    "metaTitleFr": {
+      "type": "string"
+    },
+    "metaDescriptionEs": {
+      "type": "text",
+      "required": true
+    },
+    "metaDescriptionEn": {
+      "type": "text"
+    },
+    "metaDescriptionFr": {
+      "type": "text"
+    },
+    "keywords": {
+      "type": "text"
+    },
+    "ogImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    },
+    "canonicalUrl": {
+      "type": "string"
+    },
+    "noIndex": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

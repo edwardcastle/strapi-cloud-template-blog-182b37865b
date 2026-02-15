@@ -118,6 +118,11 @@
     },
     "service3TextFr": {
       "type": "text"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
     }
   }
 }
