@@ -1,0 +1,144 @@
+{
+  "kind": "singleType",
+  "collectionName": "contact_pages",
+  "info": {
+    "singularName": "contact-page",
+    "pluralName": "contact-pages",
+    "displayName": "Contact Page",
+    "description": "Contenido de la página de Contacto"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titleEs": {
+      "type": "string",
+      "required": true
+    },
+    "titleEn": {
+      "type": "string"
+    },
+    "titleFr": {
+      "type": "string"
+    },
+    "subtitleEs": {
+      "type": "text"
+    },
+    "subtitleEn": {
+      "type": "text"
+    },
+    "subtitleFr": {
+      "type": "text"
+    },
+    "email": {
+      "type": "email",
+      "required": true
+    },
+    "phone": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "responseTimeTitleEs": {
+      "type": "string"
+    },
+    "responseTimeTitleEn": {
+      "type": "string"
+    },
+    "responseTimeTitleFr": {
+      "type": "string"
+    },
+    "responseTimeTextEs": {
+      "type": "text"
+    },
+    "responseTimeTextEn": {
+      "type": "text"
+    },
+    "responseTimeTextFr": {
+      "type": "text"
+    },
+    "formNameLabelEs": {
+      "type": "string"
+    },
+    "formNameLabelEn": {
+      "type": "string"
+    },
+    "formNameLabelFr": {
+      "type": "string"
+    },
+    "formEmailLabelEs": {
+      "type": "string"
+    },
+    "formEmailLabelEn": {
+      "type": "string"
+    },
+    "formEmailLabelFr": {
+      "type": "string"
+    },
+    "formCountryLabelEs": {
+      "type": "string"
+    },
+    "formCountryLabelEn": {
+      "type": "string"
+    },
+    "formCountryLabelFr": {
+      "type": "string"
+    },
+    "formDateLabelEs": {
+      "type": "string"
+    },
+    "formDateLabelEn": {
+      "type": "string"
+    },
+    "formDateLabelFr": {
+      "type": "string"
+    },
+    "formArtistLabelEs": {
+      "type": "string"
+    },
+    "formArtistLabelEn": {
+      "type": "string"
+    },
+    "formArtistLabelFr": {
+      "type": "string"
+    },
+    "formMessageLabelEs": {
+      "type": "string"
+    },
+    "formMessageLabelEn": {
+      "type": "string"
+    },
+    "formMessageLabelFr": {
+      "type": "string"
+    },
+    "formSubmitButtonEs": {
+      "type": "string"
+    },
+    "formSubmitButtonEn": {
+      "type": "string"
+    },
+    "formSubmitButtonFr": {
+      "type": "string"
+    },
+    "formSuccessMessageEs": {
+      "type": "text"
+    },
+    "formSuccessMessageEn": {
+      "type": "text"
+    },
+    "formSuccessMessageFr": {
+      "type": "text"
+    },
+    "formErrorMessageEs": {
+      "type": "text"
+    },
+    "formErrorMessageEn": {
+      "type": "text"
+    },
+    "formErrorMessageFr": {
+      "type": "text"
+    }
+  }
+}

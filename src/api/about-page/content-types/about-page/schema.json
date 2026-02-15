@@ -1,0 +1,123 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_pages",
+  "info": {
+    "singularName": "about-page",
+    "pluralName": "about-pages",
+    "displayName": "About Page",
+    "description": "Contenido de la página Sobre Nosotros"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titleEs": {
+      "type": "string",
+      "required": true
+    },
+    "titleEn": {
+      "type": "string"
+    },
+    "titleFr": {
+      "type": "string"
+    },
+    "subtitleEs": {
+      "type": "text"
+    },
+    "subtitleEn": {
+      "type": "text"
+    },
+    "subtitleFr": {
+      "type": "text"
+    },
+    "missionTitleEs": {
+      "type": "string"
+    },
+    "missionTitleEn": {
+      "type": "string"
+    },
+    "missionTitleFr": {
+      "type": "string"
+    },
+    "missionTextEs": {
+      "type": "text"
+    },
+    "missionTextEn": {
+      "type": "text"
+    },
+    "missionTextFr": {
+      "type": "text"
+    },
+    "statsYears": {
+      "type": "integer",
+      "default": 30
+    },
+    "statsFestivals": {
+      "type": "integer",
+      "default": 100
+    },
+    "statsCountries": {
+      "type": "integer",
+      "default": 15
+    },
+    "statsArtists": {
+      "type": "integer",
+      "default": 50
+    },
+    "service1TitleEs": {
+      "type": "string"
+    },
+    "service1TitleEn": {
+      "type": "string"
+    },
+    "service1TitleFr": {
+      "type": "string"
+    },
+    "service1TextEs": {
+      "type": "text"
+    },
+    "service1TextEn": {
+      "type": "text"
+    },
+    "service1TextFr": {
+      "type": "text"
+    },
+    "service2TitleEs": {
+      "type": "string"
+    },
+    "service2TitleEn": {
+      "type": "string"
+    },
+    "service2TitleFr": {
+      "type": "string"
+    },
+    "service2TextEs": {
+      "type": "text"
+    },
+    "service2TextEn": {
+      "type": "text"
+    },
+    "service2TextFr": {
+      "type": "text"
+    },
+    "service3TitleEs": {
+      "type": "string"
+    },
+    "service3TitleEn": {
+      "type": "string"
+    },
+    "service3TitleFr": {
+      "type": "string"
+    },
+    "service3TextEs": {
+      "type": "text"
+    },
+    "service3TextEn": {
+      "type": "text"
+    },
+    "service3TextFr": {
+      "type": "text"
+    }
+  }
+}

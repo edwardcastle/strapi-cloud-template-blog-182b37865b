@@ -1,0 +1,89 @@
+{
+  "kind": "singleType",
+  "collectionName": "artists_pages",
+  "info": {
+    "singularName": "artists-page",
+    "pluralName": "artists-pages",
+    "displayName": "Artists Page",
+    "description": "Contenido de la página de listado de Artistas"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titleEs": {
+      "type": "string",
+      "required": true
+    },
+    "titleEn": {
+      "type": "string"
+    },
+    "titleFr": {
+      "type": "string"
+    },
+    "subtitleEs": {
+      "type": "text"
+    },
+    "subtitleEn": {
+      "type": "text"
+    },
+    "subtitleFr": {
+      "type": "text"
+    },
+    "viewDetailsButtonEs": {
+      "type": "string",
+      "default": "Ver Detalles"
+    },
+    "viewDetailsButtonEn": {
+      "type": "string",
+      "default": "View Details"
+    },
+    "viewDetailsButtonFr": {
+      "type": "string",
+      "default": "Voir Détails"
+    },
+    "ctaTitleEs": {
+      "type": "string"
+    },
+    "ctaTitleEn": {
+      "type": "string"
+    },
+    "ctaTitleFr": {
+      "type": "string"
+    },
+    "ctaSubtitleEs": {
+      "type": "text"
+    },
+    "ctaSubtitleEn": {
+      "type": "text"
+    },
+    "ctaSubtitleFr": {
+      "type": "text"
+    },
+    "salsaLabelEs": {
+      "type": "string",
+      "default": "Salsa"
+    },
+    "salsaLabelEn": {
+      "type": "string",
+      "default": "Salsa"
+    },
+    "salsaLabelFr": {
+      "type": "string",
+      "default": "Salsa"
+    },
+    "reggaetonLabelEs": {
+      "type": "string",
+      "default": "Reguetón"
+    },
+    "reggaetonLabelEn": {
+      "type": "string",
+      "default": "Reggaeton"
+    },
+    "reggaetonLabelFr": {
+      "type": "string",
+      "default": "Reggaeton"
+    }
+  }
+}

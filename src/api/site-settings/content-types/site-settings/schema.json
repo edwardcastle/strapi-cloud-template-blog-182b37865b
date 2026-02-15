@@ -1,0 +1,112 @@
+{
+  "kind": "singleType",
+  "collectionName": "site_settings",
+  "info": {
+    "singularName": "site-settings",
+    "pluralName": "site-settings",
+    "displayName": "Site Settings",
+    "description": "Configuración global del sitio (nav, footer, empresa)"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "companyName": {
+      "type": "string",
+      "required": true,
+      "default": "Cubita Producciones"
+    },
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    },
+    "email": {
+      "type": "email",
+      "required": true
+    },
+    "phone": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "navHomeEs": {
+      "type": "string",
+      "default": "Inicio"
+    },
+    "navHomeEn": {
+      "type": "string",
+      "default": "Home"
+    },
+    "navHomeFr": {
+      "type": "string",
+      "default": "Accueil"
+    },
+    "navArtistsEs": {
+      "type": "string",
+      "default": "Artistas"
+    },
+    "navArtistsEn": {
+      "type": "string",
+      "default": "Artists"
+    },
+    "navArtistsFr": {
+      "type": "string",
+      "default": "Artistes"
+    },
+    "navAboutEs": {
+      "type": "string",
+      "default": "Sobre Nosotros"
+    },
+    "navAboutEn": {
+      "type": "string",
+      "default": "About Us"
+    },
+    "navAboutFr": {
+      "type": "string",
+      "default": "À Propos"
+    },
+    "navContactEs": {
+      "type": "string",
+      "default": "Contacto"
+    },
+    "navContactEn": {
+      "type": "string",
+      "default": "Contact"
+    },
+    "navContactFr": {
+      "type": "string",
+      "default": "Contact"
+    },
+    "footerDescriptionEs": {
+      "type": "text"
+    },
+    "footerDescriptionEn": {
+      "type": "text"
+    },
+    "footerDescriptionFr": {
+      "type": "text"
+    },
+    "footerCopyrightEs": {
+      "type": "string"
+    },
+    "footerCopyrightEn": {
+      "type": "string"
+    },
+    "footerCopyrightFr": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "Home Page",
+    "description": "Contenido de la página principal"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heroTitleEs": {
+      "type": "string",
+      "required": true
+    },
+    "heroTitleEn": {
+      "type": "string"
+    },
+    "heroTitleFr": {
+      "type": "string"
+    },
+    "heroSubtitleEs": {
+      "type": "text"
+    },
+    "heroSubtitleEn": {
+      "type": "text"
+    },
+    "heroSubtitleFr": {
+      "type": "text"
+    },
+    "statsYears": {
+      "type": "integer",
+      "default": 30
+    },
+    "statsArtists": {
+      "type": "integer",
+      "default": 50
+    },
+    "statsFestivals": {
+      "type": "integer",
+      "default": 100
+    },
+    "statsCountries": {
+      "type": "integer",
+      "default": 15
+    },
+    "aboutTitleEs": {
+      "type": "string"
+    },
+    "aboutTitleEn": {
+      "type": "string"
+    },
+    "aboutTitleFr": {
+      "type": "string"
+    },
+    "aboutTextEs": {
+      "type": "text"
+    },
+    "aboutTextEn": {
+      "type": "text"
+    },
+    "aboutTextFr": {
+      "type": "text"
+    },
+    "ctaTextEs": {
+      "type": "string"
+    },
+    "ctaTextEn": {
+      "type": "string"
+    },
+    "ctaTextFr": {
+      "type": "string"
+    }
+  }
+}
