@@ -22,6 +22,9 @@
     "titleFr": {
       "type": "string"
     },
+    "titleIt": {
+      "type": "string"
+    },
     "subtitleEs": {
       "type": "text"
     },
@@ -29,6 +32,9 @@
       "type": "text"
     },
     "subtitleFr": {
+      "type": "text"
+    },
+    "subtitleIt": {
       "type": "text"
     },
     "missionTitleEs": {
@@ -40,6 +46,9 @@
     "missionTitleFr": {
       "type": "string"
     },
+    "missionTitleIt": {
+      "type": "string"
+    },
     "missionTextEs": {
       "type": "text"
     },
@@ -47,6 +56,9 @@
       "type": "text"
     },
     "missionTextFr": {
+      "type": "text"
+    },
+    "missionTextIt": {
       "type": "text"
     },
     "statsYears": {
@@ -74,6 +86,9 @@
     "service1TitleFr": {
       "type": "string"
     },
+    "service1TitleIt": {
+      "type": "string"
+    },
     "service1TextEs": {
       "type": "text"
     },
@@ -81,6 +96,9 @@
       "type": "text"
     },
     "service1TextFr": {
+      "type": "text"
+    },
+    "service1TextIt": {
       "type": "text"
     },
     "service2TitleEs": {
@@ -92,6 +110,9 @@
     "service2TitleFr": {
       "type": "string"
     },
+    "service2TitleIt": {
+      "type": "string"
+    },
     "service2TextEs": {
       "type": "text"
     },
@@ -99,6 +120,9 @@
       "type": "text"
     },
     "service2TextFr": {
+      "type": "text"
+    },
+    "service2TextIt": {
       "type": "text"
     },
     "service3TitleEs": {
@@ -110,6 +134,9 @@
     "service3TitleFr": {
       "type": "string"
     },
+    "service3TitleIt": {
+      "type": "string"
+    },
     "service3TextEs": {
       "type": "text"
     },
@@ -117,6 +144,9 @@
       "type": "text"
     },
     "service3TextFr": {
+      "type": "text"
+    },
+    "service3TextIt": {
       "type": "text"
     },
     "seo": {

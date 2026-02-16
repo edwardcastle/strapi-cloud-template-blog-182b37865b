@@ -22,6 +22,9 @@
     "heroTitleFr": {
       "type": "string"
     },
+    "heroTitleIt": {
+      "type": "string"
+    },
     "heroSubtitleEs": {
       "type": "text"
     },
@@ -29,6 +32,9 @@
       "type": "text"
     },
     "heroSubtitleFr": {
+      "type": "text"
+    },
+    "heroSubtitleIt": {
       "type": "text"
     },
     "statsYears": {
@@ -56,6 +62,9 @@
     "aboutTitleFr": {
       "type": "string"
     },
+    "aboutTitleIt": {
+      "type": "string"
+    },
     "aboutTextEs": {
       "type": "text"
     },
@@ -65,6 +74,9 @@
     "aboutTextFr": {
       "type": "text"
     },
+    "aboutTextIt": {
+      "type": "text"
+    },
     "ctaTextEs": {
       "type": "string"
     },
@@ -72,6 +84,9 @@
       "type": "string"
     },
     "ctaTextFr": {
+      "type": "string"
+    },
+    "ctaTextIt": {
       "type": "string"
     },
     "seo": {

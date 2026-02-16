@@ -40,6 +40,9 @@
     "bioFr": {
       "type": "text"
     },
+    "bioIt": {
+      "type": "text"
+    },
     "availabilityStart": {
       "type": "date"
     },

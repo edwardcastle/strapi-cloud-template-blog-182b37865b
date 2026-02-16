@@ -54,6 +54,10 @@
       "type": "string",
       "default": "Accueil"
     },
+    "navHomeIt": {
+      "type": "string",
+      "default": "Home"
+    },
     "navArtistsEs": {
       "type": "string",
       "default": "Artistas"
@@ -65,6 +69,10 @@
     "navArtistsFr": {
       "type": "string",
       "default": "Artistes"
+    },
+    "navArtistsIt": {
+      "type": "string",
+      "default": "Artisti"
     },
     "navAboutEs": {
       "type": "string",
@@ -78,6 +86,10 @@
       "type": "string",
       "default": "À Propos"
     },
+    "navAboutIt": {
+      "type": "string",
+      "default": "Chi Siamo"
+    },
     "navContactEs": {
       "type": "string",
       "default": "Contacto"
@@ -90,6 +102,10 @@
       "type": "string",
       "default": "Contact"
     },
+    "navContactIt": {
+      "type": "string",
+      "default": "Contatto"
+    },
     "footerDescriptionEs": {
       "type": "text"
     },
@@ -99,6 +115,9 @@
     "footerDescriptionFr": {
       "type": "text"
     },
+    "footerDescriptionIt": {
+      "type": "text"
+    },
     "footerCopyrightEs": {
       "type": "string"
     },
@@ -106,6 +125,9 @@
       "type": "string"
     },
     "footerCopyrightFr": {
+      "type": "string"
+    },
+    "footerCopyrightIt": {
       "type": "string"
     }
   }

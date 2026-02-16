@@ -22,6 +22,9 @@
     "titleFr": {
       "type": "string"
     },
+    "titleIt": {
+      "type": "string"
+    },
     "subtitleEs": {
       "type": "text"
     },
@@ -29,6 +32,9 @@
       "type": "text"
     },
     "subtitleFr": {
+      "type": "text"
+    },
+    "subtitleIt": {
       "type": "text"
     },
     "email": {
@@ -50,6 +56,9 @@
     "responseTimeTitleFr": {
       "type": "string"
     },
+    "responseTimeTitleIt": {
+      "type": "string"
+    },
     "responseTimeTextEs": {
       "type": "text"
     },
@@ -57,6 +66,9 @@
       "type": "text"
     },
     "responseTimeTextFr": {
+      "type": "text"
+    },
+    "responseTimeTextIt": {
       "type": "text"
     },
     "formNameLabelEs": {
@@ -68,6 +80,9 @@
     "formNameLabelFr": {
       "type": "string"
     },
+    "formNameLabelIt": {
+      "type": "string"
+    },
     "formEmailLabelEs": {
       "type": "string"
     },
@@ -75,6 +90,9 @@
       "type": "string"
     },
     "formEmailLabelFr": {
+      "type": "string"
+    },
+    "formEmailLabelIt": {
       "type": "string"
     },
     "formCountryLabelEs": {
@@ -86,6 +104,9 @@
     "formCountryLabelFr": {
       "type": "string"
     },
+    "formCountryLabelIt": {
+      "type": "string"
+    },
     "formDateLabelEs": {
       "type": "string"
     },
@@ -93,6 +114,9 @@
       "type": "string"
     },
     "formDateLabelFr": {
+      "type": "string"
+    },
+    "formDateLabelIt": {
       "type": "string"
     },
     "formArtistLabelEs": {
@@ -104,6 +128,9 @@
     "formArtistLabelFr": {
       "type": "string"
     },
+    "formArtistLabelIt": {
+      "type": "string"
+    },
     "formMessageLabelEs": {
       "type": "string"
     },
@@ -111,6 +138,9 @@
       "type": "string"
     },
     "formMessageLabelFr": {
+      "type": "string"
+    },
+    "formMessageLabelIt": {
       "type": "string"
     },
     "formSubmitButtonEs": {
@@ -122,6 +152,9 @@
     "formSubmitButtonFr": {
       "type": "string"
     },
+    "formSubmitButtonIt": {
+      "type": "string"
+    },
     "formSuccessMessageEs": {
       "type": "text"
     },
@@ -131,6 +164,9 @@
     "formSuccessMessageFr": {
       "type": "text"
     },
+    "formSuccessMessageIt": {
+      "type": "text"
+    },
     "formErrorMessageEs": {
       "type": "text"
     },
@@ -138,6 +174,9 @@
       "type": "text"
     },
     "formErrorMessageFr": {
+      "type": "text"
+    },
+    "formErrorMessageIt": {
       "type": "text"
     },
     "seo": {
