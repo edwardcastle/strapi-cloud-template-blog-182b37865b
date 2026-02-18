@@ -32,16 +32,16 @@
       "allowedTypes": ["images"]
     },
     "bioEs": {
-      "type": "text"
+      "type": "richtext"
     },
     "bioEn": {
-      "type": "text"
+      "type": "richtext"
     },
     "bioFr": {
-      "type": "text"
+      "type": "richtext"
     },
     "bioIt": {
-      "type": "text"
+      "type": "richtext"
     },
     "availabilityStart": {
       "type": "date"
@@ -56,6 +56,9 @@
       "type": "string"
     },
     "youtube": {
+      "type": "string"
+    },
+    "youtubeVideoId": {
       "type": "string"
     },
     "seo": {
