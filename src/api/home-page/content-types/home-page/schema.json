@@ -89,6 +89,14 @@
     "ctaTextIt": {
       "type": "string"
     },
+    "heroImages": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
     "seo": {
       "type": "component",
       "repeatable": false,
