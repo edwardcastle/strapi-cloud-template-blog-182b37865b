@@ -1,0 +1,77 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blog_posts",
+  "info": {
+    "singularName": "blog-post",
+    "pluralName": "blog-posts",
+    "displayName": "Blog Post",
+    "description": "Artículos del blog (booking de artistas cubanos en Europa)"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "uid",
+      "targetField": "titleEs",
+      "required": true
+    },
+    "titleEs": {
+      "type": "string",
+      "required": true
+    },
+    "titleEn": {
+      "type": "string"
+    },
+    "titleFr": {
+      "type": "string"
+    },
+    "titleIt": {
+      "type": "string"
+    },
+    "excerptEs": {
+      "type": "text"
+    },
+    "excerptEn": {
+      "type": "text"
+    },
+    "excerptFr": {
+      "type": "text"
+    },
+    "excerptIt": {
+      "type": "text"
+    },
+    "contentEs": {
+      "type": "richtext"
+    },
+    "contentEn": {
+      "type": "richtext"
+    },
+    "contentFr": {
+      "type": "richtext"
+    },
+    "contentIt": {
+      "type": "richtext"
+    },
+    "coverImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    },
+    "author": {
+      "type": "string",
+      "default": "Cubita Producciones"
+    },
+    "readingTime": {
+      "type": "integer",
+      "default": 5
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
+    }
+  }
+}
