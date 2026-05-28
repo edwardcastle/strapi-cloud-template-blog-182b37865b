@@ -97,6 +97,14 @@
         "images"
       ]
     },
+    "aboutVideo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "videos"
+      ]
+    },
     "seo": {
       "type": "component",
       "repeatable": false,
